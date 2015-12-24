@@ -1,18 +1,32 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+	membuat direktori repository atau .git untuk meng repo direktori tersebut. untuk mencatat perubahan/history dari file di direktori tersebut
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+	
+	stagging area itu tempat perantara, working direktory itu file yang baru di ubah dan belum masuk staging atau repo, repo itu file yang udah di commit
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	pake git add 1 file aja yang isinya merupakan perubahan atau perbaikan
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	ya kayak contoh tadi, kalau mau nambah level mudah, atau fitur bahasa. dengan ranting ini kita bisa ber eksperimen atau mengubah file tanpa mengubah versi file utamanya
+
 How do the diagrams help you visualize the branch structure?
+
+	marai mumet cuk
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	biar saling melengkapi, mboh lah penjelasannya. intinya kalo ranting 1 punya fungsi tertentu, dan master punya fungsi tersendiri, dengan di merge jadi saling melengkapi
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+	kalo otomatis ya enak lebih cepet dan gampang, kalo manual ya repot, tapi bisa lebih detil
