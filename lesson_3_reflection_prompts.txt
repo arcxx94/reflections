@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  
+  kalau butuh bantuan orang lain untuk berkontribusi, kalau mau meng share hasil kerjaan dengan orang lain
